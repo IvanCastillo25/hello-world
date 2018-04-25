@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+
+Hi, mi name is Ivan Castillo
+
+I am learning how to use this thing called GitHub!
